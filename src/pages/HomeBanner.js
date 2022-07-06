@@ -17,7 +17,7 @@ const HomeBanner = () => {
 
     console.log(data);
     return (
-        <div className='max-w-6xl mx-auto mt-10 mb-5 px-5 md:px-8 lg:px-8'>
+        <div className='max-w-6xl mx-auto mt-5 mb-5 px-5 md:px-8 lg:px-8'>
             <h1 className='text-4xl font-bold'>Summer Art Camp! 5 Days of Artists and Painting Monet, Van Gogh, Matisse, & More</h1>
             <h6 className='flex flex-row items-center text-gray-400 font-bold text-lg  hover:text-blue-800 hover:underline my-2 cursor-pointer w-fit'>Multi-Day Course <BsQuestionCircle className='ml-3' /></h6>
 
