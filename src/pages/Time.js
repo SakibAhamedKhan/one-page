@@ -38,7 +38,7 @@ const Time = () => {
                                 <p className='mt-2 ml-2 font-extralight'>learners per class</p>
                             </div>
                         </div>
-                        <div className='w-full'>
+                        <div className=''>
                             <div className='flex mb-2 lg:my-2 md:my-2 items-center'>
                                 <BiTimeFive className='text-2xl mr-3' />
                                 <h2 className='text-2xl font-bold'>50 minutes</h2>
